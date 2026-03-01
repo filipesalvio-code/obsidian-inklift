@@ -1,0 +1,10 @@
+{
+  "id": "inklift",
+  "name": "InkLift",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Sync AI-transcribed handwritten notes from your reMarkable tablet into your Obsidian vault.",
+  "author": "Filipe Salvio",
+  "authorUrl": "https://inklift.ai",
+  "isDesktopOnly": true
+}
